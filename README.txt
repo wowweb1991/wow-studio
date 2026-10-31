@@ -1,9 +1,7 @@
-WOW WEB STUDIO — ALL IN ONE WEBSITE
+WOW WEB STUDIO — All-in-one Digital Shop with Product Order Forms
 
-Upload index.html to the root of the existing wowweb1991/wow-studio GitHub repository, replacing the existing index.html only after keeping a backup.
+Includes 60 product cards, restored original hero, digital products and prices, contact and order form fields (name, email, country, Messenger, order details, GCash reference), choice of GCash or Gumroad.
 
-Includes: service pages, portfolio section, 11 product template cards, GCash payment details, manual order inquiry and contact link.
+Manual: The order form creates a message for the buyer to copy into Messenger. It does not submit orders to a database or verify payments. Gumroad link currently opens the store, not selected product checkout; publish individual listings to enable paid automatic digital delivery. Do not put paid products on public GitHub Pages.
 
-This integrates the gallery into one landing page; it does not include downloadable ZIP files for the customer. Do not offer automatic delivery or payment confirmation. Publish product ZIP files separately after you decide on secure payment and delivery.
-
-The existing assets/ folder is unaffected and can remain in the repository.
+To publish: Back up the existing index.html, replace it with this file in the wow-studio repository, and leave assets/ in place for the original hero image.
